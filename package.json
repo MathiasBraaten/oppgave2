@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MathiasBraaten/oppgave2.kws.git"
+    "url": "git+https://github.com/MathiasBraaten/oppgave2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MathiasBraaten/oppgave2.kws/issues"
+    "url": "https://github.com/MathiasBraaten/oppgave2/issues"
   },
   "homepage": "https://github.com/MathiasBraaten/oppgave2.kws#readme",
   "description": "",
